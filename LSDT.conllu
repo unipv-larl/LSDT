@@ -1,0 +1,1450 @@
+# sent_id = 0001@RMS-343
+# text = tejsa tu na jal kere.
+# translation = Tomorrow you will not be at home.
+1	tejsa	tejsa	ADV	_	_	4	advmod	_	_
+2	tu	tu	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	4	nsubj	_	_
+3	na	na	ADV	_	_	4	advmod	_	_
+4	jal	i	VERB	_	Mood=Ind|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	kere	kere	ADV	_	_	4	advmod	_	SpaceAfter=No
+6	.	.	PUNCT	_	_	4	punct	_	_
+
+# sent_id = 0002@RMS-348
+# text = me forse džava nur foro.
+# translation = I might go to town.
+1	me	me	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	_
+2	forse	forse	ADV	_	_	3	advmod	_	_
+3	džava	džala	VERB	_	Mood=Ind|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+4-5	nur	_	_	_	_	_	_	_	_
+4	nar	nur	ADP	_	_	6	case	_	_
+5	u	u	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
+6	foro	foro	NOUN	_	Gender=Masc|Number=Sing	3	iobj	_	SpaceAfter=No
+7	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = 0003@RMS-349
+# text = jo na dikjasma e me na dikjom jo.
+# translation = He didn't see me. I didn't see him.
+1	jo	jo	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	_
+2	na	na	ADV	_	_	3	advmod	_	_
+3-4	dikjasma	_	_	_	_	_	_	_	_
+3	dikjas	dikela	VERB	_	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+4	ma	me	PRON	_	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	3	obj	_	_
+5	e	e	CCONJ	_	_	8	cc	_	_
+6	me	me	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	8	nsubj	_	_
+7	na	na	ADV	_	_	8	advmod	_	_
+8	dikjom	dikela	VERB	_	Mood=Ind|Person=1|Tense=Past|VerbForm=Fin	3	conj	_	_
+9	jo	jo	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	obj	_	SpaceAfter=No
+10	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = 0004@RMS-351
+# text = kana dživena mengi i supa.
+# translation = They bring us soup now .
+1	kana	kana	ADV	_	_	2	advmod	_	_
+2	dživena	dživela	VERB	_	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	mengi	men	PRON	_	Case=Dat|Number=Plur|Person=1|PronType=Prs	2	iobj	_	_
+4	i	u	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
+5	supa	supa	NOUN	_	Gender=Fem|Number=Sing	2	obj	_	SpaceAfter=No
+6	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = 0005@RMS-378
+# text = kava i e čau tikno.
+# translation = This is a small boy.
+1	kava	kava	DET	_	Gender=Masc|Number=Sing|PronType=Dem	4	nsubj	_	_
+2	i	i	AUX	_	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+3	e	ja	DET	_	Definite=Ind|PronType=Art	4	det	_	_
+4	čau	čau	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_
+5	tikno	tikno	ADJ	_	Gender=Masc|Number=Sing	4	amod	_	SpaceAfter=No
+6	.	.	PUNCT	_	_	4	punct	_	_
+
+# sent_id = 0006@RMS-381
+# text = jo dikjas i puri.
+# translation = He saw the old woman.
+1	jo	jo	PRON	_	Case=Nom|Gender=Masch|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_
+2	dikjas	dikela	VERB	_	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+3	i	u	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+4	puri	puro	NOUN	_	Gender=Fem|Number=Sing	2	obj	_	SpaceAfter=No
+5	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = 0007@RMS-384
+# text = ni miga vas pali finke joj na sastola.
+# translation = We cannot go back, until she gets well.
+1-2	ni	_	_	_	_	_	_	_	_
+1	na	na	ADV	_	_	4	advmod	_	_
+2	i	i	AUX	_	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	4	aux	_	_
+3	miga	miga	ADV	_	_	4	advmod	_	_
+4	vas	vela	VERB	_	Mood=Subj|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	pali	pali	ADV	_	_	4	advmod	_	_
+6	finke	finke	ADP	_	_	9	mark	_	_
+7	joj	jo	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	9	nsubj	_	_
+8	na	na	ADV	_	_	9	advmod	_	_
+9	sastola	sastola	VERB	_	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	4	advcl	_	SpaceAfter=No
+10	.	.	PUNCT	_	_	4	punct	_	_
+
+# sent_id = 0008@RMS-386
+# text = i gustari i da sunakaj.
+# translation = This ring is made of gold.
+1	i	u	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
+2	gustari	gustari	NOUN	_	Gender=Fem|Number=Sing	3	nsubj	_	_
+3	i	i	VERB	_	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	da	da	ADP	_	_	5	case	_	_
+5	sunakaj	sunakaj	NOUN	_	Gender=Masc|Number=Sing	3	iobj	_	SpaceAfter=No
+6	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = 0009@RMS-389
+# text = džjas bala vek prima ke men vjam.
+# translation = He had already gone before we got there.
+1	džjas	džjala	VERB	_	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+2	bala	bala	ADV	_	_	1	advmod	_	_
+3	vek	vek	ADV	_	_	1	advmod	_	_
+4	prima	prima	ADV	_	_	7	mark	_	_
+5	ke	ke	SCONJ	_	_	4	fixed	_	_
+6	men	men	PRON	_	Case=Nom|Number=Plur|Person=1|PronType=Prs	7	nsubj	_	_
+7	vjam	vela	VERB	_	Mood=Ind|Person=1|Tense=Past|VerbForm=Fin	1	advcl	_	SpaceAfter=No
+8	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 0010@RMS-390
+# text = se džinavas ndu isla na bučavas tutar.
+# translation = I wouldn't ask you if I knew where it is.
+1	se	se	SCONJ	_	_	2	mark	_	_
+2	džinavas	džinela	VERB	_	Mood=Ind|Person=1|Tense=Imp|VerbForm=Fin	7	advcl	_	_
+3	ndu	ndu	ADV	_	_	4	mark	_	_
+4-5	isla	_	_	_	_	_	_	_	_
+4	is	i	VERB	_	Mood=Ind|Person=3|Tense=Imp|VerbForm=Fin	2	ccomp	_	_
+5	la	lo	PRON	_	Clitic=Yes|Gender=Fem|Number=Sing|Person=3|PronType=Prs	4	expl	_	_
+6	na	na	ADV	_	_	7	advmod	_	_
+7	bučavas	bučela	VERB	_	Mood=Ind|Person=1|Tense=Imp|VerbForm=Fin	0	root	_	_
+8	tutar	tu	PRON	_	Case=Abl|Number=Sing|Person=2|PronType=Prs	7	iobj	_	SpaceAfter=No
+9	.	.	PUNCT	_	_	7	punct	_	_
+
+# sent_id = 0011@RMS-393
+# text = džava ta sua perke jom kino.
+# translation = I am going to sleep now because I'm tired.
+1	džava	džala	VERB	_	Mood=Ind|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	ta	ta	ADP	_	_	3	mark	_	_
+3	sua	suela	VERB	_	Mood=Subj|Person=1|Tense=Pres|VerbForm=Fin	1	xcomp	_	_
+4	perke	perke	SCONJ	_	_	6	mark	_	_
+5	jom	i	AUX	_	Mood=Ind|Person=1|Tense=Pres|VerbForm=Fin	6	cop	_	_
+6	kino	kino	ADJ	_	Gender=Masch|Number=Sing	1	advcl	_	SpaceAfter=No
+7	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 0012@RMS-394
+# text = joj daradaspi ar dikjaslo.
+# translation = She became scared when she saw him.
+1	joj	jo	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_
+2-3	daradaspi	_	_	_	_	_	_	_	_
+2	daradas	daradela	VERB	_	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+3	pi	pe	PRON	_	Clitic=Yes|Person=3|PronType=Prs|Reflex=Yes	2	expl	_	_
+4	ar	ar	ADV	_	_	5	mark	_	_
+5-6	dikjaslo	_	_	_	_	_	_	_	SpaceAfter=No
+5	dikjas	dikela	VERB	_	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	2	advcl	_	_
+6	lo	lo	PRON	_	Clitic=Yes|Gender=Masc|Number=Sing|PronType=Prs	5	obj	_	_
+7	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = 0013@RMS-396
+# text = tejsa finarava kava labatarpe, poi džava nur foro.
+# translation = Tomorrow I will finish this work and after that I will go to town.
+1	tejsa	tejsa	ADV	_	_	2	advmod	_	_
+2	finarava	finarela	VERB	_	Mood=Ind|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	kava	kava	DET	_	Gender=Masch|Number=Sing|PronType=Dem	4	det	_	_
+4	labatarpe	labatarpe	NOUN	_	Gender=Masch|Number=Sing	2	obj	_	SpaceAfter=No
+5	,	,	PUNCT	_	_	7	punct	_	_
+6	poi	poi	CCONJ	_	_	7	cc	_	_
+7	džava	džala	VERB	_	Mood=Ind|Person=1|Tense=Pres|VerbForm=Fin	2	conj	_	_
+8-9	nur	_	_	_	_	_	_	_	_
+8	nar	nur	ADP	_	_	10	case	_	_
+9	u	u	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
+10	foro	foro	NOUN	_	Gender=Masch|Number=Sing	7	iobj	_	SpaceAfter=No
+11	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = 0014@RMS-399
+# text = jomas par kila kon mur pral.
+# translation = I was playing with my brother.
+1	jomas	i	AUX	_	Mood=Ind|Person=1|Tense=Imp|VerbForm=Fin	3	aux	_	_
+2	par	par	ADP	_	_	3	mark	_	_
+3	kila	kilela	VERB	_	Mood=Subj|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	kon	kon	ADP	_	_	6	case	_	_
+5	mur	mur	DET	_	Gender=Masch|Number=Sing|Poss=Yes	6	det	_	_
+6	pral	pral	NOUN	_	Gender=Masc|Number=Sing	3	obl	_	SpaceAfter=No
+7	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = 0015@RMS-403
+# text = pagardom i skudela.
+# translation = I broke the cup.
+1	pagardom	pagarela	VERB	_	Mood=Ind|Person=1|Tense=Past|VerbForm=Fin	0	root	_	_
+2	i	u	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
+3	skudela	skudela	NOUN	_	Gender=Fem|Number=Sing	1	obj	_	SpaceAfter=No
+4	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 0016@RMS-405
+# text = kwando jomas terni džavas xa pur marka.
+# translation = When I was young I used to go to the market very often.
+1	kwando	kwando	SCONJ	_	_	3	mark	_	_
+2	jomas	i	AUX	_	Mood=Ind|Person=1|Tense=Imp|VerbForm=Fin	3	cop	_	_
+3	terni	terno	ADJ	_	Gender=Fem|Number=Sing	4	advcl	_	_
+4	džavas	džala	VERB	_	Mood=Ind|Person=1|Tense=Imp|VerbForm=Fin	0	root	_	_
+5	xa	xa	ADV	_	_	4	advmod	_	_
+6-7	pur	_	_	_	_	_	_	_	_
+6	par	par	ADP	_	_	8	case	_	_
+7	u	u	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
+8	marka	marka	NOUN	_	Gender=Masc|Number=Sing	4	iobj	_	SpaceAfter=No
+9	.	.	PUNCT	_	_	4	punct	_	_
+
+# sent_id = 0017@RMS-407
+# text = par star divas na miga džjom vri perke delas.
+# translation = For four days I didn't go out because it was raining.
+1	par	pur	ADP	_	Gender=Masch|Number=Plur	3	case	_	_
+2	star	star	NUM	_	NumType=Card	3	nummod	_	_
+3	divas	divas	NOUN	_	Gender=Masch|Number=Plur	6	obl	_	_
+4	na	na	ADV	_	_	6	advmod	_	_
+5	miga	miga	ADV	_	_	4	fixed	_	_
+6	džjom	džala	VERB	_	Mood=Ind|Person=1|Tense=Past|VerbForm=Fin	0	root	_	_
+7	vri	vri	ADV	_	_	6	advmod	_	_
+8	perke	perke	SCONJ	_	_	9	mark	_	_
+9	delas	dela	VERB	_	Mood=Ind|Person=3|Tense=Imp|VerbForm=Fin	6	advcl	_	SpaceAfter=No
+10	.	.	PUNCT	_	_	6	punct	_	_
+
+# sent_id = 0018@RMS-409
+# text = prima ta va kaj, me čavas dural katar.
+# translation = Before I came to live here I lived far away from here.
+1	prima	prima	ADV	_	_	3	mark	_	_
+2	ta	ta	SCONJ	_	_	1	fixed	_	_
+3	va	vela	VERB	_	Mood=Subj|Person=1|Tense=Pres|VerbForm=Fin	7	advcl	_	_
+4	kaj	kaj	ADV	_	_	3	advmod	_	SpaceAfter=No
+5	,	,	PUNCT	_	_	7	punct	_	_
+6	me	me	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Pers	7	nsubj	_	_
+7	čavas	čela	VERB	_	Mood=Ind|Person=1|Tense=Imp|VerbForm=Fin	0	root	_	_
+8	dural	dural	ADV	_	_	7	advmod	_	_
+9	katar	katar	ADV	_	_	7	advmod	_	SpaceAfter=No
+10	.	.	PUNCT	_	_	7	punct	_	_
+
+# sent_id = 0019@RMS-415
+# text = na tapardas loe da kedžano.
+# translation = I didn't get money from anyone.
+1	na	na	ADV	_	_	2	advmod	_	_
+2	tapardas	taparela	VERB	_	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+3	loe	loe	NOUN	_	Gender=Masc|Number=Plur	2	obj	_	_
+4	da	da	ADP	_	_	5	case	_	_
+5	kedžano	kedžano	DET	_	Gender=Masc|Number=Sing|PronType=Ind	2	iobj	_	SpaceAfter=No
+6	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = 0020@RMS-416
+# text = dopo panč minuti kuminčardas ta rakarel.
+# translation = After five minutes he started to talk.
+1	dopo	dopo	ADP	_	_	3	case	_	_
+2	panč	panč	NUM	_	NumType=Card	3	nummod	_	_
+3	minuti	minuto	NOUN	_	Gender=Masch|Number=Plur	4	obl	_	_
+4	kuminčardas	kuminčarela	VERB	_	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+5	ta	ta	ADP	_	_	6	mark	_	_
+6	rakarel	rakarela	VERB	_	Mood=Conj|Person=3|Tense=Pres|VerbForm=Fin	4	xcomp	_	SpaceAfter=No
+7	.	.	PUNCT	_	_	4	punct	_	_
+
+# sent_id = 0021@RMS-421
+# text = sunavas in mandar ke is čumoni ke na džalas in joi.
+# translation = I could feel that something was wrong with her.
+1	sunavas	sunela	VERB	_	Mood=Ind|Person=1|Tense=Imp|VerbForm=Fin	0	root	_	_
+2	in	in	ADP	_	_	3	case	_	_
+3	mandar	me	PRON	_	Case=Abl|Number=Sing|Person=1|PronType=Prs	1	obl	_	_
+4	ke	ke	SCONJ	_	_	5	mark	_	_
+5	is	i	VERB	_	Mood=Ind|Person=3|Tense=Imp|VerbForm=Fin	1	ccomp	_	_
+6	čumoni	čumoni	DET	_	PronType=Ind	5	nsubj	_	_
+7	ke	ke	SCONJ	_	_	9	mark	_	_
+8	na	na	ADV	_	_	9	advmod	_	_
+9	džalas	džala	VERB	_	Mood=Ind|Person=3|Tense=Imp|VerbForm=Fin	6	acl	_	_
+10	in	in	ADP	_	_	11	case	_	_
+11	joi	jo	PRON	_	Gender=Fem|Number=Sing|Person=3|PronType=Prs	9	obl	_	SpaceAfter=No
+12	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 0022@RMS-422
+# text = kaja romli tikni ila trin čave.
+# translation = This little woman has three children.
+1	kaja	kava	DET	_	Gender=Fem|Number=Sing|PronType=Dem	2	det	_	_
+2	romli	romli	NOUN	_	Gender=Fem|Number=Sing	4	nsubj	_	_
+3	tikni	tikno	ADJ	_	Gender=Fem|Number=Sing	2	amod	_	_
+4-5	ila	_	_	_	_	_	_	_	_
+4	i	i	VERB	_	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	la	lo	PRON	_	Clitic=Yes|Gender=Fem|Number=Sing|Person=3|PronType=Prs	4	fixed	_	_
+6	trin	trin	NUM	_	NumType=Card	7	nummod	_	_
+7	čave	čau	NOUN	_	Gender=Masc|Number=Plur	4	obj	_	SpaceAfter=No
+8	.	.	PUNCT	_	_	4	punct	_	_
+
+# sent_id = 0023@RMS-429
+# text = bučjom ku maestro se velas ku matrimonjo.
+# translation = I asked the male teacher whether he is coming to the wedding.
+1	bučjom	bučela	VERB	_	Mood=Ind|Person=1|Tense=Past|VerbForm=Fin	0	root	_	_
+2-3	ku	_	_	_	_	_	_	_	_
+2	ka	ka	ADP	_	_	4	case	_	_
+3	u	u	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+4	maestro	maestro	NOUN	_	Gender=Masc|Number=Sing	1	iobj	_	_
+5	se	se	SCONJ	_	_	6	mark	_	_
+6	velas	vela	VERB	_	Mood=Ind|Person=3|Tense=Imp|VerbForm=Fin	1	xcomp	_	_
+7-8	ku	_	_	_	_	_	_	_	_
+7	ka	ka	ADP	_	_	9	case	_	_
+8	u	u	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
+9	matrimonjo	matrimonio	NOUN	_	Gender=Masc|Number=Sing	6	iobj	_	SpaceAfter=No
+10	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 0024@RMS-433
+# text = džina ke in kala duj bers čjasto but labatarpe.
+# translation = I know that you had a lot of work during the past two years.
+1	džina	džinela	VERB	_	Mood=Ind|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	ke	ke	SCONJ	_	_	7	mark	_	_
+3	in	in	ADP	_	_	6	case	_	_
+4	kala	kava	DET	_	Gender=Masc|Number=Plur|PronType=Det	6	det	_	_
+5	duj	duj	NUM	_	NumType=Card	6	nummod	_	_
+6	bers	bers	NOUN	_	Gender=Masc|Number=Plur	7	obl	_	_
+7-8	čjasto	_	_	_	_	_	_	_	_
+7	čjas	čela	VERB	_	_	1	ccomp	_	_
+8	to	to	PRON	_	Clitic=Yes|Gender=Masc|Number=Sing|Person=2|PronType=Prs	7	obl	_	_
+9	but	but	ADV	_	_	10	advmod	_	_
+10	labatarpe	labatarpe	NOUN	Gender=Masc|Number=Sing	_	7	nsubj	_	SpaceAfter=No
+11	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 0025@RMS-438
+# text = pindom ta lel fungi, u sigoli et’u kavolo.
+# translation = I told her to buy mushrooms, onions and cabbage.
+1	pindom	pinela	VERB	_	Mood=Ind|Person=1|Tense=Past|VerbForm=Fin	0	root	_	_
+2	ta	ta	SCONJ	_	_	3	mark	_	_
+3	lel	lela	VERB	_	Mood=Subj|Person=3|Tense=Pres|VerbForm=Fin	1	ccomp	_	_
+4	fungi	fungo	NOUN	_	Gender=Masc|Number=Plur	3	obj	_	SpaceAfter=No
+5	,	,	PUNCT	_	_	7	punct	_	_
+6	u	u	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	7	det	_	_
+7	sigoli	sigolo	NOUN	_	Gender=Masc|Number=Plur	4	conj	_	_
+8	et’	eta	CCONJ	_	_	10	cc	_	SpaceAfter=No
+9	u	u	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
+10	kavolo	kavolo	NOUN	_	Gender=Masc|Number=Sing	4	conj	_	SpaceAfter=No
+11	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 0026@RMS-439
+# text = pindas mange u bers ke vela ta bikava i masina.
+# translation = He told me to sell the car next year.
+1	pindas	pinela	VERB	_	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+2	mange	me	PRON	_	Case=Dat|Number=Plur|Person=1|PronType=Prs	1	iobj	_	_
+3	u	u	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+4	bers	bers	NOUN	_	Gender=Masc|Number=Sing	8	obl	_	_
+5	ke	ke	PRON	_	PronType=Rel	6	nsubj	_	_
+6	vela	vela	VERB	_	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	4	acl	_	_
+7	ta	ta	SCONJ	_	_	8	mark	_	_
+8	bikava	bikela	VERB	_	Mood=Subj|Person=1|Tense=Pres|VerbForm=Fin	1	xcomp	_	_
+9	i	u	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	det	_	_
+10	masina	masina	NOUN	_	Gender=Fem|Number=Sing	8	obj	_	SpaceAfter=No
+11	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 0027@RMS-443
+# text = piradom i vali par ta sunato.
+# translation = I opened the window so that I can hear you.
+1	piradom	piravela	VERB	_	Mood=Ind|Person=1|Tense=Past|VerbForm=Fin	0	root	_	_
+2	i	u	DET	_	Definite=Def|Gender=Fem|Number=Sing	3	det	_	_
+3	vali	vali	NOUN	_	Gender=Fem|Number=Sing	1	obj	_	_
+4	par	par	ADP	_	_	6	mark	_	_
+5	ta	ta	SCONJ	_	_	6	mark	_	_
+6-7	sunato	_	_	_	_	_	_	_	SpaceAfter=No
+6	suna	sunela	VERB	_	Mood=Subj|Person=1|Tense=Pres|VerbForm=Fin	1	advcl	_	_
+7	to	to	PRON	_	Clitic=Yes|Number=Sing|Person=2|PronType=Prs	6	obl	_	_
+8	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 0028@RMS-445
+# text = kindas lumpi nevi par ta džas nur foro.
+# translation = He bought new clothes so that he could go into town.
+1	kindas	kinela	VERB	_	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+2	lumpi	lumpo	NOUN	_	Gender=Masc|Number=Plur	1	obj	_	_
+3	nevi	nevo	ADJ	_	Gender=Masc|Number=Plur	2	amod	_	_
+4	par	par	ADP	_	_	6	mark	_	_
+5	ta	ta	SCONJ	_	_	6	mark	_	_
+6	džas	džala	VERB	_	Mood=Subj|Person=3|Tense=Pres|VerbForm=Fin	1	advcl	_	_
+7-8	nur	_	_	_	_	_	_	_	_
+7	nar	nar	ADP	_	_	9	case	_	_
+8	u	u	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
+9	foro	foro	NOUN	_	Gender=Masc|Number=Sing	6	iobj	_	SpaceAfter=No
+10	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 0029@RMS-447
+# text = pindas leski ar ta bikavel u graj.
+# translation = He told him how to sell the horse.
+1	pindas	pinela	VERB	_	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+2	leski	jo	PRON	_	Case=Dat|Gender=Masc|Number=Sing|Person=3|PronType=Prs	1	iobj	_	_
+3	ar	ar	ADV	_	_	5	mark	_	_
+4	ta	ta	SCONJ	_	_	5	mark	_	_
+5	bikavel	bikavela	VERB	VerbForm=Fin|Mood=Subj|Tense=Pres|Person=3	_	1	xcomp	_	_
+6	u	u	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
+7	graj	graj	NOUN	_	Gender=Masc|Number=Sing	5	obj	_	SpaceAfter=No
+8	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 0030@RMS-457
+# text = sundom ke vavar Sinti čena kaj.
+# translation = I heard that other Roma live here as well.
+1	sundom	sunela	VERB	_	Mood=Ind|Person=1|Tense=Past|VerbForm=Fin	0	root	_	_
+2	ke	ke	SCONJ	_	_	5	mark	_	_
+3	vavar	vavar	DET	_	PronType=Ind	4	det	_	_
+4	Sinti	sinto	NOUN	_	Gender=Masc|Number=Plur	5	nsubj	_	_
+5	čena	čela	VERB	_	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	1	ccomp	_	_
+6	kaj	kaj	ADV	_	_	5	advmod	_	SpaceAfter=No
+7	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 0031@RMS-461
+# text = dikjom ja rom ke kaminarelas pur drom.
+# translation = I saw a man walking down the street.
+1	dikjom	dikela	VERB	_	Mood=Ind|Person=1|Tense=Past|VerbForm=Fin	0	root	_	_
+2	ja	ja	DET	_	Definite=Ind|PronType=Art	3	det	_	_
+3	rom	rom	NOUN	_	Gender=Masc|Number=Sing	1	obj	_	_
+4	ke	ke	PRON	_	PronType=Rel	5	nsubj	_	_
+5	kaminarelas	kaminarela	VERB	_	Mood=Ind|Person=3|Tense=Imp|VerbForm=Fin	3	acl	_	_
+6-7	pur	_	_	_	_	_	_	_	_
+6	par	par	ADP	_	_	8	case	_	_
+7	u	u	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
+8	drom	drom	NOUN	_	Gender=Masc|Number=Sing	5	obl	_	SpaceAfter=No
+9	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 0032@RMS-464
+# text = mar maestra ila papli nasali.
+# translation = My female teacher is still ill.
+1	mar	mur	DET	_	Gender=Fem|Number=Sing|Poss=Yes	2	det	_	_
+2	maestra	maestro	NOUN	_	Gender=Fem|Number=Sing	6	nsubj	_	_
+3-4	ila	_	_	_	_	_	_	_	_
+3	i	i	AUX	_	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	_
+4	la	joi	PRON	_	Clitic=Yes|Gender=Fem|Number=Sing|PronType=Prs	6	expl	_	_
+5	papli	papli	ADV	_	_	6	advmod	_	_
+6	nasali	nasalo	ADJ	_	Gender=Fem|Number=Sing	0	root	_	SpaceAfter=No
+7	.	.	PUNCT	_	_	6	punct	_	_
+
+# sent_id = 0033@RMS-468
+# text = xojardaspi mansal par čumoni.
+# translation = He got angry with me because of something.
+1-2	xojardaspi	_	_	_	_	_	_	_	_
+1	xojardas	xojarela	VERB	_	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+2	pi	pe	PRON	_	Clitic=Yes|Person=3|PronType=Prs|Reflex=Yes	1	expl	_	_
+3	mansal	me	PRON	_	Case=Com|Number=Plur|Person=1|PronType=Prs	1	obl	_	_
+4	par	par	ADP	_	_	5	case	_	_
+5	čumoni	čumoni	DET	_	PronType=Ind	1	obl	_	SpaceAfter=No
+6	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 0034@RMS-473
+# text = me čava nur foro ma jo čela maskar u feldi.
+# translation = I live in town but he lives in the countryside.
+1	me	me	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
+2	čava	čela	VERB	_	Mood=Ind|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+3-4	nur	_	_	_	_	_	_	_	_
+3	nar	nur	ADP	_	_	5	case	_	_
+4	u	u	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+5	foro	foro	NOUN	_	Gender=Masc|Number=Sing	2	iobj	_	_
+6	ma	ma	CCONJ	_	_	8	cc	_	_
+7	jo	jo	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	nsubj	_	_
+8	čela	čela	VERB	_	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	2	conj	_	_
+9	maskar	maskar	ADP	_	_	11	case	_	_
+10	u	u	DET	_	Gender=Masc|Number=Plur	11	det	_	_
+11	feldi	feldo	NOUN	_	Gender=Masc|Number=Plur	8	iobj	_	SpaceAfter=No
+12	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = 0035@RMS-474
+# text = džjam ki vjerta pasal mendi kun personi ke vjen ta senmi.
+# translation = We went to the local bar with some guests yesterday.
+1	džjam	džjala	VERB	_	Mood=Ind|Person=1|Tense=Past|VerbForm=Fin	0	root	_	_
+2-3	ki	_	_	_	_	_	_	_	_
+2	ka	ka	ADP	_	Gender=Fem|Number=Sing	4	case	_	_
+3	i	u	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+4	vjerta	vjerta	NOUN	_	Gender=Fem|Number=Sing	1	iobj	_	_
+5	pasal	pasal	ADP	_	_	6	case	_	_
+6	mendi	men	PRON	_	Case=Loc|Number=Plur|Person=1|PronType=Prs	1	obl	_	_
+7	kun	kun	ADP	_	_	8	case	_	_
+8	personi	persona	NOUN	_	Gender=Fem|Number=Plur	1	obl	_	_
+9	ke	ke	PRON	_	PronType=Rel	10	nsubj	_	_
+10	vjen	vela	VERB	_	Mood=Ind|Person=2|Tense=Past|VerbForm=Fin	8	acl	_	_
+11	ta	ta	SCONJ	_	_	12	mark	_	_
+12-13	senmi	_	_	_	_	_	_	_	SpaceAfter=No
+12	sen	sela	VERB	_	Mood=Subj|Person=2|Tense=Pres|VerbForm=Fin	10	xcomp	_	_
+13	mi	mi	PRON	_	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	12	obj	_	_
+14	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 0036@RMS-479
+# text = ričevardom kala blumi da mar pen.
+# translation = I got these flowers from my sister.
+1	ričevardom	ričevarela	VERB	_	Mood=Ind|Person=1|Tense=Past|VerbForm=Fin	0	root	_	_
+2	kala	kava	DET	_	Gender=Fem|Number=Plur|PronType=Dem	3	det	_	_
+3	blumi	bluma	NOUN	_	Gender=Fem|Number=Plur	1	obj	_	_
+4	da	da	ADP	_	_	6	case	_	_
+5	mar	mur	DET	_	Gender=Fem|Number=Sing|Poss=Yes	6	det	_	_
+6	pen	pen	NOUN	_	Gender=Fem|Number=Sing	1	iobj	_	SpaceAfter=No
+7	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 0037@RMS-484
+# text = u ker da mar pral ilu nevo eta baro.
+# translation = My brothers' houses are new and big.
+1	u	u	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	ker	ker	NOUN	_	Gender=Masc|Number=Sing	8	nsubj	_	_
+3	da	da	ADP	_	_	5	case	_	_
+4	mar	mur	DET	_	Gender=Masc|Number=Plur|Poss=Yes	5	det	_	_
+5	pral	pral	NOUN	_	Gender=Masc|Number=Plur	2	nmod	_	_
+6-7	ilu	_	_	_	_	_	_	_	_
+6	i	i	AUX	_	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	_
+7	lu	lo	PRON	_	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	expl	_	_
+8	nevo	nevo	ADJ	_	Gender=Masc|Number=Sing	0	root	_	_
+9	eta	eta	CCONJ	_	_	10	cc	_	_
+10	baro	baro	ADJ	_	Gender=Masc|Number=Sing	8	conj	_	SpaceAfter=No
+11	.	.	PUNCT	_	_	8	punct	_	_
+
+# sent_id = 0038@RMS-485
+# text = krol mar čave ili papli tikni.
+# translation = All my children are still small.
+1	krol	krol	DET	_	PronType=Ind	3	det	_	_
+2	mar	mur	DET	_	Gender=Masc|Number=Plur|Poss=Yes	3	det	_	_
+3	čave	čau	NOUN	_	Gender=Masc|Number=Plur	7	nsubj	_	_
+4-5	ili	_	_	_	_	_	_	_	_
+4	i	i	AUX	_	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	7	cop	_	_
+5	li	lo	PRON	_	Clitic=Yes|Gender=Masc|Number=Plur|Person=3|PronType=Prs	7	expl	_	_
+6	papli	papli	ADV	_	_	7	advmod	_	_
+7	tikni	tikno	ADJ	_	Gender=Masc|Number=Plur	0	root	_	SpaceAfter=No
+8	.	.	PUNCT	_	_	7	punct	_	_
+
+# sent_id = 0039@RMS-486
+# text = dukadoma kun je čuri.
+# translation = I injured myself with the knife.
+1-2	dukadoma	_	_	_	_	_	_	_	_
+1	dukadom	dukola	VERB	_	Mood=Ind|Person=1|Tense=Past|VerbForm=Fin	0	root	_	_
+2	ma	me	PRON	_	Number=Sing|Person=1|PronType=Prs|Reflex=Yes	1	obj	_	_
+3	kun	kun	ADP	_	_	5	case	_	_
+4	je	ja	DET	_	Definite=Ind|PronType=Art	5	det	_	_
+5	čuri	čuri	NOUN	_	Gender=Fem|Number=Sing	1	iobj	_	SpaceAfter=No
+6	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 0040@RMS-496
+# text = tring romli is par ta karen i torta nar kučina.
+# translation = Three women were baking a cake in the kitchen.
+1	tring	trin	NUM	_	NumType=Card	2	nummod	_	_
+2	romli	romli	NOUN	_	Gender=Fem|Number=Sing	6	nsubj	_	_
+3	is	i	AUX	_	Mood=Ind|Person=3|Tense=Imp|VerbForm=Fin	6	aux	_	_
+4	par	par	ADP	_	_	6	mark	_	_
+5	ta	ta	SCONJ	_	_	6	mark	_	_
+6	karen	karela	VERB	_	Mood=Ind|Person=3|Tense=Subj|VerbForm=Fin	0	root	_	_
+7	i	i	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	det	_	_
+8	torta	torta	NOUN	_	Gender=Fem|Number=Sing	6	obj	_	_
+9	nar	nar	ADP	_	_	10	case	_	_
+10	kučina	kučina	NOUN	_	Gender=Fem|Number=Sing	6	obl	_	SpaceAfter=No
+11	.	.	PUNCT	_	_	6	punct	_	_
+
+# sent_id = 0041@RMS-497
+# text = joj tinkarelp u lau da tringa romnja.
+# translation = She remembers the names of three women.
+1	joj	jo	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_
+2-3	tinkarelp	_	_	_	_	_	_	_	_
+2	tinkarel	tinkarela	VERB	_	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	pe	pe	PRON	_	Clitic=Yes|Person=3|PronType=Prs|Reflex=Yes	2	expl	_	_
+4	u	u	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+5	lau	lau	NOUN	_	Gender=Masc|Number=Sing	2	obj	_	_
+6	da	da	ADP	_	_	8	case	_	_
+7	tringa	trin	NUM	_	NumType=Card	8	nummod	_	_
+8	romnja	romni	NOUN	_	Gender=Fem|Number=Plur	5	nmod	_	SpaceAfter=No
+9	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = 0042@RMS-500
+# text = star čja sinti i par ta kilen nur džardin.
+# translation = Four Gypsy girls are playing in the garden.
+1	star	star	NUM	_	NumType=Card	2	nummod	_	_
+2	čja	čau	NOUN	_	Gender=Fem|Number=Plur	7	nsubj	_	_
+3	sinti	sinto	ADJ	_	Gender=Fem|Number=Plur	2	amod	_	_
+4	i	i	AUX	_	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	7	aux	_	_
+5	par	par	ADP	_	_	7	mark	_	_
+6	ta	ta	SCONJ	_	_	7	mark	_	_
+7	kilen	kilela	VERB	_	Mood=Subj|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+8-9	nur	_	_	_	_	_	_	_	_
+8	nar	nur	ADP	_	_	10	case	_	_
+9	u	u	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
+10	džardin	džardin	NOUN	_	Gender=Masc|Number=Sing	7	obl	_	SpaceAfter=No
+11	.	.	PUNCT	_	_	7	punct	_	_
+
+# sent_id = 0043@RMS-508
+# text = jo kardas da krol ta džal vek bi ta pleskarel peskar suldi.
+# translation = Somehow he managed to leave without paying his debts.
+1	jo	jo	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_
+2	kardas	karela	VERB	_	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+3	da	da	ADP	_	_	2	obj	_	_
+4	krol	krol	PRON	_	PronType=Ind	3	fixed	_	_
+5	ta	ta	SCONJ	_	_	6	mark	_	_
+6	džal	džala	VERB	_	Mood=Subj|Person=3|Tense=Pres|VerbForm=Fin	2	advcl	_	_
+7	vek	vek	ADV	_	_	6	advmod	_	_
+8	bi	bi	ADP	_	_	10	mark	_	_
+9	ta	ta	SCONJ	_	_	10	mark	_	_
+10	pleskarel	pleskarela	VERB	_	Mood=Subj|Person=3|Tense=Pres|VerbForm=Fin	6	advcl	_	_
+11	peskar	peskur	DET	_	Gender=Masc|Number=Plur|Poss=Yes	12	det	_	_
+12	suldi	suldo	NOUN	_	Gender=Masc|Number=Plur	10	obj	_	SpaceAfter=No
+13	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = 0044@RMS-514
+# text = onji rat kamelas džal da kwalke rig.
+# translation = Every evening he wanted to go somewhere.
+1	onji	onji	DET	_	PronType=Ind	2	det	_	_
+2	rat	rat	NOUN	_	Gender=Fem|Number=Sing	3	obl	_	_
+3	kamelas	kamela	VERB	_	Mood=Ind|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
+4	džal	džala	VERB	_	Mood=Subj|Person=3|Tense=Pres|VerbForm=Fin	3	xcomp	_	_
+5	da	da	ADP	_	_	7	case	_	_
+6	kwalke	kwalke	DET	_	PronType=Ind	7	det	_	_
+7	rig	rig	NOUN	_	Gender=Masc|Number=Sing	4	iobj	_	SpaceAfter=No
+8	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = 0045@RMS-522
+# text = ja rat u bedi vjen koj ki joj.
+# translation = One evening the police came to her.
+1	ja	ja	DET	_	Definite=Ind|PronType=Art	2	det	_	_
+2	rat	rat	NOUN	_	Gender=Fem|Number=Sing	5	obl	_	_
+3	u	u	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	4	det	_	_
+4	bedi	bedo	NOUN	_	Gender=Masc|Number=Plur	5	nsubj	_	_
+5	vjen	vela	VERB	_	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+6	koj	koj	ADV	_	_	5	advmod	_	_
+7-8	ki	_	_	_	_	_	_	_	_
+7	ka	ka	ADP	_	_	9	case	_	_
+8	i	u	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
+9	joj	jo	PRON	_	Gender=Fem|Number=Sing|Person=3|PronType=Prs	5	iobj	_	SpaceAfter=No
+10	.	.	PUNCT	_	_	5	punct	_	_
+
+# sent_id = 0046@RMS-554
+# text = islu kjake but pilo ke na selas njanka butar peskur ker!
+# translation = He was so drunk, that he couldn't find his own house anymore!
+1-2	islu	_	_	_	_	_	_	_	_
+1	is	i	AUX	_	Mood=Ind|Person=3|Tense=Imp|VerbForm=Fin	5	cop	_	_
+2	lu	lo	PRON	_	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	expl	_	_
+3	kjake	kjake	ADV	_	_	5	advmod	_	_
+4	but	but	ADV	_	_	5	advmod	_	_
+5	pilo	pilo	ADJ	_	Gender=Masc|Number=Sing	0	root	_	_
+6	ke	ke	SCONJ	_	_	8	mark	_	_
+7	na	na	ADV	_	_	8	advmod	_	_
+8	selas	sela	VERB	_	Mood=Ind|Person=3|Tense=Imp|VerbForm=Fin	5	advcl	_	_
+9	njanka	njanka	ADV	_	_	8	advmod	_	_
+10	butar	butar	ADV	_	_	8	advmod	_	_
+11	peskur	peskur	DET	_	Gender=Masc|Number=Sing|Poss=Yes	12	det	_	_
+12	ker	ker	NOUN	_	Gender=Masc|Number=Sing	8	obj	_	SpaceAfter=No
+13	!	!	PUNCT	_	_	5	punct	_	_
+
+# sent_id = 0047@RMS-564
+# text = u puri fantonli ta ginen kova da pengar kwand isli terni.
+# translation = Old people like to tell stories about their younger days.
+1	u	u	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	2	det	_	_
+2	puri	puro	NOUN	_	Gender=Masc|Number=Plur	3	nsubj	_	_
+3-4	fantonli	_	_	_	_	_	_	_	_
+3	fanton	fantola	VERB	_	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	li	lo	PRON	_	Clitic=Yes|Gender=Masc|Number=Plur|Person=3|PronType=Prs	3	expl	_	_
+5	ta	ta	SCONJ	_	_	6	mark	_	_
+6	ginen	ginela	VERB	_	Mood=Subj|Person=3|Tense=Pres|VerbForm=Fin	3	xcomp	_	_
+7	kova	kova	NOUN	_	Gender=Fem|Number=Plur	6	obj	_	_
+8	da	da	ADP	_	_	9	case	_	_
+9	pengar	peskur	PRON	_	Gender=Masc|Number=Plur|Poss=Yes	7	nmod	_	_
+10	kwand	kwando	SCONJ	_	_	13	mark	_	_
+11-12	isli	_	_	_	_	_	_	_	_
+11	is	i	AUX	_	Mood=Ind|Person=3|Tense=Imp|VerbForm=Fin	13	cop	_	_
+12	li	lo	PRON	_	Clitic=Yes|Gender=Masc|Number=Plur|Person=3|PronType=Prs	13	expl	_	_
+13	terni	terno	ADJ	_	Gender=Masc|Number=Plur	6	advcl	_	SpaceAfter=No
+14	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = 0048@RMS-569
+# text = u ker nar kava gau ili krol parni.
+# translation = All the houses are white in this village.
+1	u	u	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	2	det	_	_
+2	ker	ker	NOUN	_	Gender=Masc|Number=Plur	9	nsubj	_	_
+3	nar	nar	ADP	_	_	5	case	_	_
+4	kava	kava	DET	_	Gender=Masc|Number=Sing|PronType=Det	5	det	_	_
+5	gau	gau	NOUN	_	Gender=Masc|Number=Sing	9	obl	_	_
+6-7	ili	_	_	_	_	_	_	_	_
+6	i	i	AUX	_	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	9	cop	_	_
+7	li	lo	PRON	_	Clitic=Yes|Gender=Masc|Number=Plur|Person=3|PronType=Prs	9	expl	_	_
+8	krol	krol	DET	_	PronType=Ind	9	det	_	_
+9	parni	parno	ADJ	_	Gender=Masc|Number=Plur	0	root	_	SpaceAfter=No
+10	.	.	PUNCT	_	_	9	punct	_	_
+
+# sent_id = 0049@RMS-582
+# text = joj pindas mange ke na prindžarela kedžano.
+# translation = She said that she did not know anyone.
+1	joj	jo	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_
+2	pindas	pinela	VERB	_	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+3	mange	me	PRON	_	Case=Dat|Number=Sing|Person=3|PronType=Prs	2	iobj	_	_
+4	ke	ke	SCONJ	_	_	6	mark	_	_
+5	na	na	ADV	_	_	6	advmod	_	_
+6	prindžarela	prindžarela	VERB	_	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	2	ccomp	_	_
+7	kedžano	kedžano	PRON	_	PronType=Ind	6	obj	_	SpaceAfter=No
+8	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = 0050@RMS-593
+# text = u dad du tinu čau islu ja barba bare kjake.
+# translation = The boy's father had such a big beard.
+1	u	u	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	dad	dat	NOUN	_	Gender=Masc|Number=Sing	6	nsubj	_	_
+3	du	da	ADP	_	Gender=Masc|Number=Sing	5	case	_	_
+4	tinu	tino	ADJ	_	Gender=Masc|Number=Sing	5	amod	_	_
+5	čau	čau	NOUN	_	Gender=Masc|Number=Sing	2	nmod	_	_
+6	is	islo	VERB	_	Mood=Ind|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	SpaceAfter=No
+7	lu	lo	PRON	_	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	fixed	_	_
+8	ja	ja	DET	_	Definite=Ind|PronType=Art	9	det	_	_
+9	barba	barba	NOUN	_	Gender=Fem|Number=Sing	6	obj	_	_
+10	bare	baro	ADJ	_	Gender=Fem|Number=Sing	9	amod	_	_
+11	kjake	kjake	ADV	_	_	9	advmod	_	SpaceAfter=No
+12	.	.	PUNCT	_	_	6	punct	_	_
+
+# sent_id = 0051@RMS-604
+# text = jo vela ta selma but ma na karela miga džina kwand i ka vela.
+# translation = He visits me often, but he never lets me know when he is coming.
+1	jo	jo	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_
+2	vela	vela	VERB	_	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	ta	ta	SCONJ	_	_	4	mark	_	_
+4-5	selma	_	_	_	_	_	_	_	_
+4	sel	sela	VERB	_	Mood=Subj|Person=3|Tense=Pres|VerbForm=Fin	2	xcomp	_	_
+5	ma	ma	PRON	_	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	4	obj	_	_
+6	but	but	ADV	_	_	2	advmod	_	_
+7	ma	ma	CCONJ	_	_	9	cc	_	_
+8	na	na	ADV	_	_	9	advmod	_	_
+9	karela	karela	VERB	_	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	2	conj	_	_
+10	miga	miga	ADV	_	_	11	advmod	_	_
+11	džina	džinela	VERB	_	Mood=Subj|Person=3|Tense=Pres|VerbForm=Fin	9	xcomp	_	_
+12	kwand	kwando	SCONJ	_	_	13	mark	_	_
+13	i	i	VERB	_	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	11	advcl	_	_
+14	ka	ke	SCONJ	_	_	15	mark	_	_
+15	vela	vela	VERB	_	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	13	acl	_	SpaceAfter=No
+16	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = 0052@RMS-627
+# text = dopo u labatarpe jo džala nar lada da dua jan, ta kinel u koa dolso par peskar čave.
+# translation = After work he usually goes into the local shop to buy some sweets for his children.
+1	dopo	dopo	ADP	_	_	3	case	_	_
+2	u	u	DET	_	Definite=Yes|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	labatarpe	labatarpe	NOUN	_	Gender=Masc|Number=Sing	5	obl	_	_
+4	jo	jo	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	_
+5	džala	džala	VERB	_	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+6	nar	nar	ADP	_	_	7	case	_	_
+7	lada	lada	NOUN	_	Gender=Fem|Number=Sing	5	iobj	_	_
+8	da	da	ADP	_	_	10	mark	_	_
+9	dua	dua	PRON	_	PronType=Int	8	fixed	_	_
+10	jan	i	VERB	_	Mood=Ind|Person=2|Tense=Pres|VerbForm=Fin	7	acl	_	SpaceAfter=No
+11	,	,	PUNCT	_	_	13	punct	_	_
+12	ta	ta	SCONJ	_	_	13	mark	_	_
+13	kinel	kinel	VERB	_	Mood=Subj|Person=3|Tense=Pres|VerbForm=Fin	5	advcl	_	_
+14	u	u	DET	_	Definite=Yes|Gender=Masc|Number=Sing|PronType=Art	15	det	_	_
+15	koa	kova	NOUN	_	Gender=Masc|Number=Sing	13	obj	_	_
+16	dolso	dolso	ADJ	_	Gender=Masc|Number=Sing	15	amod	_	_
+17	par	par	ADP	_	_	19	case	_	_
+18	peskar	peskur	DET	_	Gender=Masc|Number=Plur|Poss=Yes	19	det	_	_
+19	čave	čave	NOUN	_	Gender=Masc|Number=Plur	13	obl	_	SpaceAfter=No
+20	.	.	PUNCT	_	_	5	punct	_	_
+
+# sent_id = 0053@RMS-631
+# text = mar duj penja čena in Zvesja e mur pral pju terno čela in Ungaria.
+# translation = My two sisters live in Sweden and my younger brother is in Hungary.
+1	mar	mur	DET	_	Gender=Fem|Number=Plur|Poss=Yes	3	det	_	_
+2	duj	duj	NUM	_	NumType=Card	3	nummod	_	_
+3	penja	pen	NOUN	_	Gender=Fem|Number=Plur	4	nsubj	_	_
+4	čena	čela	VERB	_	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	in	in	ADP	_	_	6	case	_	_
+6	Zvesja	Zvesja	NOUN	_	Gender=Fem|Number=Sing	4	iobj	_	_
+7	e	e	CCONJ	_	_	12	cc	_	_
+8	mur	mur	DET	_	Gender=Masc|Number=Sing|Poss=Yes	9	det	_	_
+9	pral	pral	NOUN	_	Gender=Masc|Number=Sing	12	nsubj	_	_
+10	pju	piu	ADV	_	_	11	advmod	_	_
+11	terno	terno	ADJ	_	Gender=Masc|Number=Sing	9	amod	_	_
+12	čela	čela	VERB	_	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	4	conj	_	_
+13	in	in	ADP	_	_	14	case	_	_
+14	Ungaria	Ungaria	NOUN	_	Gender=Fem|Number=Sing	12	iobj	_	SpaceAfter=No
+15	.	.	PUNCT	_	_	4	punct	_	_
+
+# sent_id = 0054@RMS-662
+# text = preferarava ta pja mur kafe kon u tut.
+# translation = I prefer my coffee with milk.
+1	preferarava	preferarela	VERB	_	Mood=Ind|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	ta	ta	SCONJ	_	_	3	mark	_	_
+3	pja	pjela	VERB	_	Mood=Subj|Person=1|Tense=Pres|VerbForm=Fin	1	xcomp	_	_
+4	mur	mur	DET	_	Gender=Masc|Number=Sing|Poss=Yes	5	det	_	_
+5	kafe	kafe	NOUN	_	Gender=Masc|Number=Sing	3	obj	_	_
+6	kon	kon	ADP	_	_	8	case	_	_
+7	u	u	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Det	8	det	_	_
+8	tut	tut	NOUN	_	Gender=Masc|Number=Sing	3	obl	_	SpaceAfter=No
+9	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 0055@RMS-674
+# text = ja tino kučolo islu besto pasal u ker.
+# translation = A little puppy was sitting beside the house.
+1	ja	ja	DET	_	Definite=Ind|PronType=Art	3	det	_	_
+2	tino	tikno	ADJ	_	Gender=Masc|Number=Sing	3	amod	_	_
+3	kučolo	kučolo	NOUN	_	Gender=Masc|Number=Sing	6	nsubj	_	_
+4-5	islu	_	_	_	_	_	_	_	_
+4	is	i	AUX	_	Mood=Ind|Person=3|Tense=Imp|VerbForm=Fin	6	cop	_	_
+5	lu	lo	PRON	_	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	expl	_	_
+6	besto	besela	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+7	pasal	pasal	ADP	_	_	9	case	_	_
+8	u	u	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
+9	ker	ker	NOUN	_	Gender=Masc|Number=Sing	6	obl	_	SpaceAfter=No
+10	.	.	PUNCT	_	_	6	punct	_	_
+
+# sent_id = 0056@RMS-678
+# text = u purja fantonli bisenpi dinglan u ker eta rakaren par stunde.
+# translation = Old women like to sit in front of the house and talk for hours.
+1	u	u	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Det	2	det	_	_
+2	purja	puro	NOUN	_	Gender=Fem|Number=Plur	3	nsubj	_	_
+3-4	fantonli	_	_	_	_	_	_	_	_
+3	fanton	fantola	VERB	_	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	li	lo	PRON	_	Clitic=Yes|Gender=Fem|Number=Plur|Person=3|PronType=Prs	3	expl	_	_
+5-6	bisenpi	_	_	_	_	_	_	_	_
+5	bisen	bisela	VERB	_	Mood=Subj|Person=3|Tense=Pres|VerbForm=Fin	3	xcomp	_	_
+6	pi	pe	PRON	_	Clitic=Yes|Person=3|PronType=Prs|Reflex=Yes	5	obj	_	_
+7	dinglan	dinglan	ADP	_	_	9	mark	_	_
+8	u	u	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Prs	9	det	_	_
+9	ker	ker	NOUN	_	Gender=Masc|Number=Sing	5	obl	_	_
+10	eta	eta	CCONJ	_	_	11	cc	_	_
+11	rakaren	rakarela	VERB	_	Mood=Subj|Person=3|Tense=Pres|VerbForm=Fin	5	conj	_	_
+12	par	par	ADP	_	_	13	case	_	_
+13	stunde	stunda	NOUN	_	Gender=Fem|Number=Plur	11	obl	_	SpaceAfter=No
+14	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = 0057@RMS-710
+# text = ima čumoni ta kara kaj prima ta dža kere.
+# translation = I have a few things to do here before I can go back home.
+1	ima	ima	VERB	_	Mood=Ind|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	čumoni	čumoni	PRON	_	PronType=Ind	1	obj	_	_
+3	ta	ta	SCONJ	_	_	4	mark	_	_
+4	kara	karela	VERB	_	Mood=Subj|Person=1|Tense=Pres|VerbForm=Fin	2	acl	_	_
+5	kaj	kaj	ADV	_	_	4	advmod	_	_
+6	prima	prima	ADV	_	_	8	mark	_	_
+7	ta	ta	SCONJ	_	_	6	fixed	_	_
+8	dža	džala	VERB	_	Mood=Subj|Person=3|Tense=Pres|VerbForm=Fin	1	advcl	_	_
+9	kere	kere	ADV	_	_	8	iobj	_	SpaceAfter=No
+10	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 0058@RMS-716
+# text = džina ke ila zorli ta vjadžares par ta ses ja labatarpe but stundi onji divas.
+# translation = I understand that it is difficult to travel to work many hours every day.
+1	džina	džinela	VERB	_	Mood=Ind|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	ke	ke	SCONJ	_	_	5	mark	_	_
+3-4	ila	_	_	_	_	_	_	_	_
+3	i	i	AUX	_	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	5	aux	_	_
+4	la	lo	PRON	_	Clitic=Yes|Gender=Fem|Number=Sing|Person=3|PronType=Prs	5	expl	_	_
+5	zorli	zorli	ADJ	_	Gender=Fem|Number=Sing	1	ccomp	_	_
+6	ta	ta	SCONJ	_	_	7	mark	_	_
+7	vjadžares	vjadžarela	VERB	_	Mood=Subj|Person=2|Tense=Pres|VerbForm=Fin	5	csubj	_	_
+8	par	par	SCONJ	_	_	10	mark	_	_
+9	ta	ta	SCONJ	_	_	10	mark	_	_
+10	ses	sela	VERB	_	Mood=Subj|Person=2|Tense=Pres|VerbForm=Fin	7	advcl	_	_
+11	ja	ja	DET	_	Definite=Ind|PronType=Art	12	det	_	_
+12	labatarpe	labatarpe	NOUN	_	Gender=Masc|Number=Sing	10	obl	_	_
+13	but	but	DET	_	PronType=Ind	14	det	_	_
+14	stundi	stunda	NOUN	_	Gender=Fem|Number=Plur	7	obl	_	_
+15	onji	onji	DET	_	PronType=Ind	16	det	_	_
+16	divas	divas	NOUN	_	Gender=Masc|Number=Sing	7	obl	_	SpaceAfter=No
+17	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 0059@RMS-720
+# text = da solito čau pre a le sete, ma koa divas čjom pre a le sej.
+# translation = I normally wake up at 7 o'clock but today I already woke up at 6.
+1	da	da	ADP	_	_	2	case	_	_
+2	solito	solito	NOUN	_	Gender=Masc|Number=Sing	3	obl	_	_
+3	čau	čela	VERB	_	Mood=Ind|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	pre	pre	ADV	_	_	3	fixed	_	_
+5	a	a	ADP	_	_	7	case	_	_
+6	le	la	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	7	det	_	_
+7	sete	sete	NOUN	_	Gender=Fem|Number=Plur	3	obl	_	SpaceAfter=No
+8	,	,	PUNCT	_	_	12	punct	_	_
+9	ma	ma	CCONJ	_	_	12	cc	_	_
+10	koa	kova	DET	_	Gender=Masc|Number=Sing|PronType=Det	11	det	_	_
+11	divas	divas	NOUN	_	Gender=Masc|Number=Sing	12	obl	_	_
+12	čjom	čela	VERB	_	Mood=Ind|Person=1|Tense=Past|VerbForm=Fin	3	conj	_	_
+13	pre	pren	ADV	_	_	12	fixed	_	_
+14	a	a	ADP	_	_	16	case	_	_
+15	le	le	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	16	det	_	_
+16	sej	sej	NOUN	_	Gender=Fem|Number=Plur	12	obl	_	SpaceAfter=No
+17	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = 0060@RMS-721
+# text = u rasja da nial ili kurti.
+# translation = Nights are short in summer.
+1	u	u	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Det	2	det	_	_
+2	rasja	rat	NOUN	_	Gender=Fem|Number=Plur	7	nsubj	_	_
+3	da	da	ADP	_	_	4	mark	_	_
+4	nial	njal	NOUN	_	Gender=Masc|Number=Sing	2	nmod	_	_
+5-6	ili	_	_	_	_	_	_	_	_
+5	i	i	AUX	_	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	7	cop	_	_
+6	li	lo	PRON	_	Gender=Fem|Number=Plur|Person=3|PronType=Prs	7	expl	_	_
+7	kurti	kurto	ADJ	_	Gender=Masc|Number=Plur	0	root	_	SpaceAfter=No
+8	.	.	PUNCT	_	_	7	punct	_	_
+
+# sent_id = 0061@RMS-722
+# text = sia me ke mur pral džaja a skwola nur gau.
+# translation = Both my brother and I went to school in the village.
+1	sia	sia	CCONJ	_	_	2	cc	_	_
+2	me	me	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	6	nsubj	_	_
+3	ke	ke	CCONJ	_	_	5	cc	_	_
+4	mur	mur	DET	_	Gender=Masc|Number=Sing|Poss=Yes	5	det	_	_
+5	pral	pral	NOUN	_	Gender=Masc|Number=Sing	2	conj	_	_
+6	džaja	džala	VERB	_	Mood=Ind|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+7	a	a	ADP	_	_	8	case	_	_
+8	skwola	skwola	NOUN	_	Gender=Fem|Number=Sing	6	iobj	_	_
+9	nur	nur	ADP	_	Gender=Masc|Number=Sing	10	case	_	_
+10	gau	gau	NOUN	_	Gender=Masc|Number=Sing	6	obl	_	SpaceAfter=No
+11	.	.	PUNCT	_	_	6	punct	_	_
+
+# sent_id = 0062@RMS-725
+# text = na tapardom miga papli mur pasaporto, ma taparaulo katar ja monato.
+# translation = I haven't received my passport yet, I'll get it in a month.
+1	na	na	ADV	_	_	2	advmod	_	_
+2	tapardom	taparela	VERB	_	Mood=Ind|Person=1|Tense=Past|VerbForm=Fin	0	root	_	_
+3	miga	miga	ADV	_	_	2	advmod	_	_
+4	papli	paple	ADV	_	_	2	advmod	_	_
+5	mur	mur	DET	_	Gender=Masc|Number=Sing|Poss=Yes	6	det	_	_
+6	pasaporto	pasaporto	NOUN	_	Gender=Masc|Number=Sing	2	obj	_	SpaceAfter=No
+7	,	,	PUNCT	_	_	9	punct	_	_
+8	ma	ma	CCONJ	_	_	9	cc	_	_
+9-10	taparaulo	_	_	_	_	_	_	_	_
+9	taparau	taparela	VERB	_	Mood=Ind|Person=1|Tense=Pres|VerbForm=Fin	2	conj	_	_
+10	lo	lo	PRON	_	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	9	obj	_	_
+11	katar	katar	ADP	_	_	13	case	_	_
+12	ja	ja	DET	_	Definite=Ind|PronType=Art	13	det	_	_
+13	monato	monato	NOUN	_	Gender=Masc|Number=Sing	9	obl	_	SpaceAfter=No
+14	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = 0063@RMS-760
+# text = joj zgandžadas krol kun peskar goldi.
+# translation = She woke up everybody with her screaming.
+1	joj	joi	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_
+2	zgandžadas	zgandžarela	VERB	_	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+3	krol	krol	DET	_	PronType=Ind	2	obj	_	_
+4	kun	kun	ADP	_	_	6	case	_	_
+5	peskar	peskur	DET	_	Gender=Masc|Number=Plur|Poss=Yes	6	det	_	_
+6	goldi	golde	NOUN	_	Gender=Masc|Number=Plur	2	obl	_	SpaceAfter=No
+7	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = 0064@RMS-763
+# text = i pal ta karel dikel ke peskar čaj peskro nevo gustari.
+# translation = She is showing her daughter her new ring.
+1	i	i	AUX	_	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	4	aux	_	_
+2	pal	par	ADP	_	_	4	mark	_	_
+3	ta	ta	SCONJ	_	_	4	mark	_	_
+4	karel	karela	VERB	_	Mood=Subj|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	dikel	dikela	VERB	_	Mood=Subj|Person=3|Tense=Pres|VerbForm=Fin	4	xcomp	_	_
+6	ke	ki	ADP	_	_	8	mark	_	_
+7	peskar	peskur	PRON	_	Gender=Fem|Number=Sing|Poss=Yes	8	det	_	_
+8	čaj	čaj	NOUN	_	Gender=Fem|Number=Sing	5	obl	_	_
+9	peskro	peskur	DET	_	Gender=Masc|Number=Sing|Poss=Yes	11	det	_	_
+10	nevo	nevo	ADJ	_	Gender=Masc|Number=Sing	11	amod	_	_
+11	gustari	gustari	NOUN	_	Gender=Fem|Number=Sing	5	obj	_	SpaceAfter=No
+12	.	.	PUNCT	_	_	4	punct	_	_
+
+# sent_id = 0065@RMS-790
+# text = jo duperadas i benzina ta xačarel u kas.
+# translation = He used petrol to make the wood burn.
+1	jo	jo	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_
+2	duperadas	duperela	VERB	_	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+3	i	u	DET	_	Definite=Def|Gender=Fem|Number=Sing	4	det	_	_
+4	benzina	benzina	NOUN	_	Gender=Fem|Number=Sing	2	obj	_	_
+5	ta	ta	SCONJ	_	_	6	mark	_	_
+6	xačarel	xačarela	VERB	_	Mood=Subj|Person=3|Tense=Pres|VerbForm=Fin	2	advcl	_	_
+7	u	u	DET	_	_	8	det	_	_
+8	kas	kas	NOUN	_	_	6	obj	_	SpaceAfter=No
+9	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = 0066@RMS-802
+# text = bisardas mange i letera.
+# translation = She sent me the letter.
+1	bisardas	bisarela	VERB	_	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+2	mange	me	PRON	_	Case=Dat|Number=Plur|Person=1|PronType=Prs	1	iobj	_	_
+3	i	u	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+4	letera	letera	NOUN	_	Gender=Fem|Number=Sing	1	obj	_	SpaceAfter=No
+5	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 0067@RMS-812
+# text = anka i romli ke rakardam lajal čela nar kava gau.
+# translation = The woman that we spoke to lives in his village too.
+1	anka	anka	ADV	_	_	7	advmod	_	_
+2	i	u	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
+3	romli	romli	NOUN	_	Gender=Fem|Number=Sing	7	nsubj	_	_
+4	ke	ke	PRON	_	PronType=Rel	5	obl	_	_
+5	rakardam	rakarela	VERB	_	Mood=Ind|Person=1|Tense=Past|VerbForm=Fin	3	acl	_	_
+6	lajal	joi	PRON	_	Case=Com|Gender=Fem|Number=Sing|Person=3|PronType=Prs	5	expl	_	_
+7	čela	čela	VERB	_	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+8	nar	nar	ADP	_	_	10	case	_	_
+9	kava	kava	DET	_	Gender=Masc|Number=Sing|PronType=Det	10	det	_	_
+10	gau	gau	NOUN	_	Gender=Masc|Number=Sing	7	iobj	_	SpaceAfter=No
+11	.	.	PUNCT	_	_	7	punct	_	_
+
+# sent_id = 0068@RMS-818
+# text = krol u volte ke vello čingaraja par via da leskar pen.
+# translation = Every time he comes we have a fight about his sisters.
+1	krol	krol	DET	_	PronType=Ind	3	det	_	_
+2	u	u	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	3	det	_	_
+3	volte	volta	NOUN	_	Gender=Fem|Number=Plur	7	advcl	_	_
+4	ke	ke	PRON	_	PronType=Rel	5	obl	_	_
+5-6	vello	_	_	_	_	_	_	_	_
+5	vel	vela	VERB	_	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	3	acl	_	_
+6	lo	lo	PRON	_	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	_
+7	čingaraja	čingaela	VERB	_	Mood=Ind|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+8	par	par	ADP	_	_	12	case	_	_
+9	via	via	NOUN	_	Gender=Fem|Number=Sing	8	fixed	_	_
+10	da	da	ADP	_	_	8	fixed	_	_
+11	leskar	leskur	DET	_	Gender=Fem|Number=Sing|Poss=Yes	12	det	_	_
+12	pen	pen	NOUN	_	Gender=Fem|Number=Sing	7	obl	_	SpaceAfter=No
+13	.	.	PUNCT	_	_	7	punct	_	_
+
+# sent_id = 0069@RMS-822
+# text = se kaja čaj ila respetada peskur dat na kamela ta lela rom.
+# translation = Although she is a decent girl, his father won't let him marry her.
+1	se	se	SCONJ	_	_	6	mark	_	_
+2	kaja	kava	DET	_	Gender=Fem|Number=Sing|PronType=Det	3	det	_	_
+3	čaj	čaj	NOUN	_	Gender=Fem|Number=Sing	6	nsubj	_	_
+4-5	ila	_	_	_	_	_	_	_	_
+4	i	i	AUX	_	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	6	aux	_	_
+5	la	la	PRON	_	Clitic=Yes|Gender=Fem|Number=Sing|PronType=Prs	6	expl	_	_
+6	respetada	respetado	ADJ	_	Gender=Fem|Number=Sing	10	advcl	_	_
+7	peskur	peskur	DET	_	Gender=Masc|Number=Sing|Poss=Yes	8	det	_	_
+8	dat	dat	NOUN	_	Gender=Masc|Number=Sing	10	nsubj	_	_
+9	na	na	ADV	_	_	10	advmod	_	_
+10	kamela	kamela	VERB	_	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+11	ta	ta	SCONJ	_	_	12	mark	_	_
+12	lela	lela	VERB	_	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	10	ccomp	_	_
+13	rom	rom	NOUN	_	Gender=Masc|Number=Sing	12	obj	_	SpaceAfter=No
+14	.	.	PUNCT	_	_	10	punct	_	_
+
+# sent_id = 0070@RMS-824
+# text = vjen kaj sigo e taparden u drom ke džala nur bosko.
+# translation = They managed to arrive here early by taking the way through the woods.
+1	vjen	vela	VERB	_	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+2	kaj	kaj	ADV	_	_	1	advcl	_	_
+3	sigo	sigo	ADV	_	_	1	advcl	_	_
+4	e	e	CCONJ	_	_	5	cc	_	_
+5	taparden	taparela	VERB	_	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	1	conj	_	_
+6	u	u	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
+7	drom	drom	NOUN	_	Gender=Masc|Number=Sing	5	nsubj	_	_
+8	ke	ke	PRON	_	PronType=Rel	9	nsubj	_	_
+9	džala	džala	VERB	_	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	7	acl	_	_
+10-11	nur	_	_	_	_	_	_	_	_
+10	nar	nur	ADP	_	_	12	case	_	_
+11	u	u	DET	_	Definite=Def|Gender=Masc|Number=Sings|PronType=Art	12	det	_	_
+12	bosko	bosko	NOUN	_	Gender=Masc|Number=Sing	9	iobj	_	SpaceAfter=No
+13	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 0071@RMS-839
+# text = is but personi par festa, ma kokaro u rom ke prindžarelas mur dat rakardas mansa.
+# translation = There were many people at the party, but only the man who knew my father, talked to me.
+1	is	i	VERB	_	Mood=Ind|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
+2	but	but	DET	_	PronType=Ind	3	det	_	_
+3	personi	persona	NOUN	_	Gender=Fem|Number=Plur	1	nsubj	_	_
+4	par	par	ADP	_	_	5	case	_	_
+5	festa	festa	NOUN	_	Gender=Fem|Number=Sing	1	obl	_	SpaceAfter=No
+6	,	,	PUNCT	_	_	15	punct	_	_
+7	ma	ma	CCONJ	_	_	15	cc	_	_
+8	kokaro	kokaro	ADJ	_	Gender=Masc|Number=Sing	10	amod	_	_
+9	u	u	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
+10	rom	rom	NOUN	_	Gender=Masc|Number=Sing	15	nsubj	_	_
+11	ke	ke	PRON	_	_	12	nsubj	_	_
+12	prindžarelas	prindžarel	VERB	_	Mood=Ind|Person=3|Tense=Imp|VerbForm=Fin	10	acl	_	_
+13	mur	mur	DET	_	Gender=Masc|Number=Sing|Poss=Yes	14	det	_	_
+14	dat	dat	NOUN	_	Gender=Masc|Number=Sing	12	obj	_	_
+15	rakardas	rakarela	VERB	_	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	1	conj	_	_
+16	mansa	mansa	PRON	_	Case=Com|Number=Plur|Person=1|PronType=Prs	15	iobj	_	SpaceAfter=No
+17	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 0072@RMS-859
+# text = krol peskar čave čjan batezadi nar kea kangari.
+# translation = All his children were baptised at this church.
+1	krol	krol	DET	_	PronType=Ind	3	det	_	_
+2	peskar	peskur	DET	_	Gender=Masc|Number=Plur|Poss=Yes	3	det	_	_
+3	čave	čave	NOUN	_	Gender=Masc|Number=Plur	5	nsubj	_	_
+4	čjan	čela	AUX	_	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	5	aux	_	_
+5	batezadi	batezarela	VERB	_	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	0	root	_	_
+6	nar	nar	ADP	_	_	8	case	_	_
+7	kea	kaja	DET	_	Gender=Fem|Number=Sing|PronType=Det	8	det	_	_
+8	kangari	kangari	NOUN	_	Gender=Fem|Number=Sing	5	obl	_	SpaceAfter=No
+9	.	.	PUNCT	_	_	5	punct	_	_
+
+# sent_id = 0073@RMS-875
+# text = joj bistarelpi xa ta pangel u vudar.
+# translation = She always forgets to close the door.
+1	joj	jo	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_
+2-3	bistarelpi	_	_	_	_	_	_	_	_
+2	bistarel	bistarela	VERB	_	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	pi	pe	PRON	_	Clitic=Yes|Person=3|PronType=Prs|Reflex=Yes	2	expl	_	_
+4	xa	xa	ADV	_	_	2	advcl	_	_
+5	ta	ta	SCONJ	_	_	6	mark	_	_
+6	pangel	pangela	VERB	_	Mood=Subj|Person=3|Tense=Pres|VerbForm=Fin	2	xcomp	_	_
+7	u	u	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
+8	vudar	vudar	NOUN	_	Gender=Masc|Number=Sing	6	obj	_	SpaceAfter=No
+9	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = 0074@RMS-884
+# text = kava gadžo studjarela u rakarpe du sinti.
+# translation = This non Gypsy man learns the Romani language.
+1	kava	kava	DET	_	Gender=Masc|Number=Sing|PronType=Dem	2	det	_	_
+2	gadžo	gadžo	NOUN	_	Gender=Masc|Number=Sing	3	nsubj	_	_
+3	studjarela	studjarela	VERB	_	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	u	u	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+5	rakarpe	rakarbe	NOUN	_	Gender=Masc|Number=Sing	3	obj	_	_
+6-7	du	_	_	_	_	_	_	_	_
+6	da	da	ADP	_	_	8	case	_	_
+7	u	u	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	8	det	_	_
+8	sinti	sinto	NOUN	_	Gender=Masc|Number=Plur	5	nmod	_	SpaceAfter=No
+9	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = 0075@RMS-892
+# text = leskar bal pjan pjan vena grizi.
+# translation = Her hair slowly becomes grey.
+1	leskar	leskur	DET	_	Gender=Masc|Number=Plur|Poss=Yes	2	det	_	_
+2	bal	bal	NOUN	_	Gender=Masc|Number=Plur	5	nsubj	_	_
+3	pjan	pjan	ADV	_	_	5	advmod	_	_
+4	pjan	pjan	ADV	_	_	3	fixed	_	_
+5	vena	vela	VERB	_	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+6	grizi	grizo	ADJ	_	Gender=Masc|Number=Plur	5	xcomp	_	SpaceAfter=No
+7	.	.	PUNCT	_	_	5	punct	_	_
+
+# sent_id = 0076@RMS-893
+# text = ni miga studjara perke i ta da ja vas ki mar daj.
+# translation = I cannot study, because I have to help my mother.
+1-2	ni	_	_	_	_	_	_	_	_
+1	na	na	ADV	_	_	4	advcl	_	_
+2	i	i	AUX	_	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	4	aux	_	_
+3	miga	miga	ADV	_	_	4	advcl	_	_
+4	studjara	studjarela	VERB	_	Mood=Subj|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	perke	perke	SCONJ	_	_	8	mark	_	_
+6	i	i	AUX	_	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	8	aux	_	_
+7	ta	ta	SCONJ	_	_	8	mark	_	_
+8	da	da	VERB	_	Mood=Subj|Person=1|Tense=Prs|VerbForm=Fin	4	advcl	_	_
+9	ja	ja	DET	_	Definite=Ind|PronType=Art	8	det	_	_
+10	vas	vas	NOUN	_	Gender=Masc|Number=Sing	8	obj	_	_
+11-12	ki	_	_	_	_	_	_	_	_
+11	ka	ku	ADP	_	_	14	case	_	_
+12	i	u	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Prs	14	det	_	_
+13	mar	mur	DET	_	Gender=Fem|Number=Sing|Poss=Yes	14	det	_	_
+14	daj	daj	NOUN	_	Gender=Fem|Number=Sing	8	iobj	_	SpaceAfter=No
+15	.	.	PUNCT	_	_	4	punct	_	_
+
+# sent_id = 0077@RMS-905
+# text = islu kjake zorlo ke pjegarelas u fero.
+# translation = He was so strong that he could bend the iron.
+1-2	islu	_	_	_	_	_	_	_	_
+1	is	i	AUX	_	Mood=Ind|Person=3|Tense=Imp|VerbForm=Fin	4	cop	_	_
+2	lu	lo	PRON	_	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	expl	_	_
+3	kjake	kjake	ADV	_	_	4	advmod	_	_
+4	zorlo	zorlo	ADJ	_	Gender=Masc|Number=Sing	0	root	_	_
+5	ke	ke	SCONJ	_	_	6	mark	_	_
+6	pjegarelas	pjegarela	VERB	_	Mood=Ind|Person=3|Tense=Imp|VerbForm=Fin	4	advcl	_	_
+7	u	u	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
+8	fero	fero	NOUN	_	Gender=Masc|Number=Sing	6	obj	_	SpaceAfter=No
+9	.	.	PUNCT	_	_	4	punct	_	_
+
+# sent_id = 0078@RMS-914
+# text = jo basavela misto i gitara.
+# translation = He plays the guitar nicely.
+1	jo	jo	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_
+2	basavela	basavela	VERB	_	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	misto	misto	ADV	_	_	2	advmod	_	_
+4	i	i	DET	_	Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
+5	gitara	gitara	NOUN	_	Gender=Fem|Number=Sing	2	obj	_	SpaceAfter=No
+6	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = 0079@RMS-924
+# text = i rat me ima bok, ma se xava vava tulo.
+# translation = In the evening I get very hungry, but if I eat I'll get very fat.
+1	i	u	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
+2	rat	rat	NOUN	_	Gender=Fem|Number=Sing	4	obl	_	_
+3	me	me	PRON	_	Case=Nom|Number=Sing|PronType=Prs	4	nsubj	_	_
+4-5	ima	_	_	_	_	_	_	_	_
+4	i	i	VERB	_	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	ma	ma	PRON	_	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	4	fixed	_	_
+6	bok	bok	NOUN	_	Gender=Fem|Number=Sing	4	obj	_	SpaceAfter=No
+7	,	,	PUNCT	_	_	11	punct	_	_
+8	ma	ma	CCONJ	_	_	11	cc	_	_
+9	se	se	SCONJ	_	_	10	mark	_	_
+10	xava	xava	VERB	_	Mood=Ind|Person=1|Tense=Pres|VerbForm=Fin	11	advcl	_	_
+11	vava	vava	VERB	_	Mood=Ind|Person=1|Tense=Pres|VerbForm=Fin	4	conj	_	_
+12	tulo	tulo	ADJ	_	Gender=Masc|Number=Sing	11	xcomp	_	SpaceAfter=No
+13	.	.	PUNCT	_	_	4	punct	_	_
+
+# sent_id = 0080@RMS-933
+# text = kava divas ta xas imi u mas et u kavoli.
+# translation = Today we had meat and cabbage for lunch.
+1	kava	kava	DET	_	Gender=Masc|Number=Sing|PronType=Dem	2	det	_	_
+2	divas	divas	NOUN	_	Gender=Masc|Number=Sing	5	obl	_	_
+3	ta	ta	SCONJ	_	_	4	mark	_	_
+4	xas	xas	VERB	_	Mood=Subj|Person=1|Tense=Pres|VerbForm=Fin	8	acl	_	_
+5-6	imi	_	_	_	_	_	_	_	_
+5	i	i	VERB	_	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+6	mi	mi	PRON	_	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	5	fixed	_	_
+7	u	u	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
+8	mas	mas	NOUN	_	Gender=Masc|Number=Sing	5	obj	_	_
+9	et	eta	CCONJ	_	_	11	cc	_	_
+10	u	u	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	11	det	_	_
+11	kavoli	kavoli	NOUN	_	Gender=Masc|Number=Plur	8	conj	_	SpaceAfter=No
+12	.	.	PUNCT	_	_	5	punct	_	_
+
+# sent_id = 0081@RMS-950
+# text = i masina senla pur drom.
+# translation = The car was found in the street.
+1	i	i	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
+2	masina	masina	NOUN	_	Gender=Fem|Number=Sing	3	obj	_	_
+3-4	senla	_	_	_	_	_	_	_	_
+3	sen	sela	VERB	_	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	la	la	PRON	_	Clitic=Yes|Gender=Fem|Number=Sing|Person=3|PronType=Prs	3	expl	_	_
+5-6	pur	_	_	_	_	_	_	_	_
+5	par	pur	ADP	_	_	7	case	_	_
+6	u	u	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
+7	drom	drom	NOUN	_	Gender=Masc|Number=Sing	3	obl	_	SpaceAfter=No
+8	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = 0082@RMS-963
+# text = tinkarto u pindom tuke.
+# translation = You should keep in mind what I tell you.
+1-2	tinkarto	_	_	_	_	_	_	_	_
+1	tinkar	tinkarela	VERB	_	Mood=Imp|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	to	to	PRON	_	Clitic=Yes|Number=Sing|Person=2|PronType=Prs	1	expl	_	_
+3	u	u	PRON	_	PronType=Int	4	obj	_	_
+4	pindom	pinela	VERB	_	Mood=Ind|Person=1|Tense=Past|VerbForm=Fin	1	ccomp	_	_
+5	tuke	tu	PRON	_	Case=Dat|Number=Sing|Person=2|PronType=Prs	4	iobj	_	SpaceAfter=No
+6	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 0083@RMS-979
+# text = u vavar bers da vent tapardom ja vjes rafredor.
+# translation = Last year I got a very bad cold in the winter.
+1	u	u	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+2	vavar	vavar	DET	_	PronType=Ind	3	det	_	_
+3	bers	bers	NOUN	_	Gender=Masc|Number=Sing	6	obl	_	_
+4	da	da	ADP	_	_	5	case	_	_
+5	vent	vent	NOUN	_	Gender=Masc|Number=Sing	6	obl	_	_
+6	tapardom	taparela	VERB	_	Mood=Ind|Person=1|Tense=Past|VerbForm=Fin	0	root	_	_
+7	ja	ja	DET	_	Definite=Ind|PronType=Art	9	det	_	_
+8	vjes	vjes	ADJ	_	Gender=Masc|Number=Sing	9	amod	_	_
+9	rafredor	rafredor	NOUN	_	Gender=Masc|Number=Sing	6	obj	_	SpaceAfter=No
+10	.	.	PUNCT	_	_	6	punct	_	_
+
+# sent_id = 0084@RMS-986
+# text = kaja butilja džidasla vek kwalke mal.
+# translation = This bottle had been taken away by some of my friends.
+1	kaja	kava	DET	_	Gender=Fem|Number=Sing|PronType=Det	2	det	_	_
+2	butilja	butilja	NOUN	_	Gender=Fem|Number=Sing	3	obj	_	_
+3-4	džidasla	_	_	_	_	_	_	_	_
+3	džidas	dživela	VERB	_	Mood=Ind|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
+4	la	lo	PRON	_	Clitic=Yes|Gender=Fem|Number=Sing|Person=3|PronType=Prs	3	expl	_	_
+5	vek	vek	ADV	_	_	3	advmod	_	_
+6	kwalke	kwalke	DET	_	PronType=Ind	7	det	_	_
+7	mal	mal	NOUN	_	Gender=Masc|Number=Sing	3	nsubj	_	SpaceAfter=No
+8	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = 0085@RMS-994
+# text = i ta čjes atento kwando gwidarea masina.
+# translation = You must always be very careful when driving a car.
+1	i	i	AUX	_	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	3	aux	_	_
+2	ta	ta	SCONJ	_	_	3	mark	_	_
+3	čjes	čela	VERB	_	Mood=Subj|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	atento	atento	ADJ	_	Gender=Masc|Number=Sing	3	xcomp	_	_
+5	kwando	kwando	SCONJ	_	_	6	mark	_	_
+6	gwidarea	gwidarela	VERB	_	Mood=Ind|Person=2|Tense=Pres|VerbForm=Fin	3	advcl	_	_
+7	masina	masina	NOUN	_	Gender=Fem|Number=Sing	6	obj	_	SpaceAfter=No
+8	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = 0086@RMS-996
+# text = dikjom mur pral jeri.
+# translation = I saw my brother yesterday.
+1	dikjom	dikela	VERB	_	Mood=Ind|Person=1|Tense=Past|VerbForm=Fin	0	root	_	_
+2	mur	mur	DET	_	Gender=Masc|Number=Sing|Poss=Yes	3	det	_	_
+3	pral	pral	NOUN	_	Gender=Masc|Number=Sing	1	obj	_	_
+4	jeri	jeri	ADV	_	_	1	advmod	_	SpaceAfter=No
+5	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 0087@RMS-1006
+# text = i nona pasela nur deval.
+# translation = Grandmother believes in God.
+1	i	u	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
+2	nona	nona	NOUN	_	Gender=Fem|Number=Sing	3	nsubj	_	_
+3	pasela	pasela	VERB	_	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4-5	nur	_	_	_	_	_	_	_	_
+4	nar	nur	ADP	_	_	6	case	_	_
+5	u	u	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
+6	deval	deval	NOUN	_	Gender=Masc|Number=Sing	3	iobj	_	SpaceAfter=No
+7	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = 0088@RMS-1016
+# text = bisardom ja kartulina ki mar familja i wawar setimana.
+# translation = I sent my family a postcard last week.
+1	bisardom	bisarela	VERB	_	Mood=Ind|Person=1|Tense=Past|VerbForm=Fin	0	root	_	_
+2	ja	ja	DET	_	Definite=Ind|PronType=Art	3	det	_	_
+3	kartulina	kartulina	NOUN	_	Gender=Fem|Number=Sing	1	obj	_	_
+4-5	ki	_	_	_	_	_	_	_	_
+4	ka	ka	ADP	_	Gender=Fem|Number=Sing	7	case	_	_
+5	i	u	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
+6	mar	mur	DET	_	Gender=Fem|Number=Sing|Poss=Yes	7	det	_	_
+7	familja	familja	NOUN	_	Gender=FemNumber	1	iobj	_	_
+8	i	u	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	det	_	_
+9	wawar	vavar	PRON	_	PronType=Ind	10	det	_	_
+10	setimana	setimana	NOUN	_	Gender=Fem|Number=Sing	1	obl	_	SpaceAfter=No
+11	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 0089@RMS-1018
+# text = me prindžardom ja čaj ke kilela pur loe.
+# translation = I knew a young girl who danced for money.
+1	me	me	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
+2	prindžardom	prindžardom	VERB	_	Mood=Ind|Person=1|Tense=Past|VerbForm=Fin	0	root	_	_
+3	ja	ja	DET	_	Definite=Ind|PronType=Art	4	det	_	_
+4	čaj	čaj	NOUN	_	Gender=Fem|Number=Sing	2	obj	_	_
+5	ke	ke	PRON	_	_	6	nsubj	_	_
+6	kilela	kilela	VERB	_	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	4	acl	_	_
+7-8	pur	_	_	_	_	_	_	_	_
+7	par	par	ADP	_	_	9	case	_	_
+8	u	u	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Det	9	det	_	_
+9	loe	loe	NOUN	_	Gender=Masc|Number=Plur	6	obl	_	SpaceAfter=No
+10	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = 0090@RMS-1023
+# text = mur čau bučjas da peskur nono.
+# translation = My son asked me about his grandfather.
+1	mur	mur	DET	_	Gender=Masc|Number=Sing|Poss=Yes	2	det	_	_
+2	čau	čau	NOUN	_	Gender=Masc|Number=Sing	3	nsubj	_	_
+3	bučjas	bučela	VERB	_	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+4	da	da	ADP	_	_	6	case	_	_
+5	peskur	peskur	DET	_	Gender=Masc|Number=Sing|Poss=Yes	6	det	_	_
+6	nono	nono	NOUN	_	Gender=Masc|Number=Sing	3	obl	_	SpaceAfter=No
+7	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = 0091@RMS-1027
+# text = i panka nur ker ila kerdi kun u ruk ke vjas baro dinglan mengur ker.
+# translation = The bench in the kitchen is made of the tree that was growing in front of our house.
+1	i	u	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
+2	panka	panka	NOUN	_	Gender=Fem|Number=Sing	8	nsubj	_	_
+3-4	nur	_	_	_	_	_	_	_	_
+3	nar	nur	ADP	_	_	5	case	_	_
+4	u	u	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+5	ker	ker	NOUN	_	Gender=Masc|Number=Sing	2	nmod	_	_
+6-7	ila	_	_	_	_	_	_	_	_
+6	i	i	AUX	_	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	8	aux	_	_
+7	la	lo	PRON	_	Clitic=Yes|Gender=Fem|Number=Sing|Person=3|PronType=Prs	8	expl	_	_
+8	kerdi	kerela	VERB	_	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+9	kun	kun	ADP	_	_	11	case	_	_
+10	u	u	DET	_	Definite=Yes|Gender=Masc|Number=Sing|PronType=Art	11	det	_	_
+11	ruk	ruk	NOUN	_	Gender=Masc|Number=Sing	8	iobj	_	_
+12	ke	ke	PRON	_	_	13	nsubj	_	_
+13	vjas	vela	VERB	_	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	11	acl	_	_
+14	baro	baro	ADJ	_	Gender=Masc|Number=Sing	13	xcomp	_	_
+15	dinglan	dinglan	ADP	_	_	17	case	_	_
+16	mengur	mengur	DET	_	Gender=Masc|Number=Sing|Poss=Yes	17	det	_	_
+17	ker	ker	NOUN	_	Gender=Masc|Number=Sing	13	obl	_	SpaceAfter=No
+18	.	.	PUNCT	_	_	8	punct	_	_
+
+# sent_id = 0092@RMS-1028
+# text = trin mal da mur dat nasadenpe nur korape.
+# translation = Three of my dad's friends got lost in the war.
+1	trin	trin	NUM	_	NumType=Card	2	nummod	_	_
+2	mal	mal	NOUN	_	Gender=Masc|Number=Plur	6	nsubj	_	_
+3	da	da	ADP	_	_	5	case	_	_
+4	mur	mur	DET	_	Gender=Masc|Number=Sing|Poss=Yes	5	det	_	_
+5	dat	dat	NOUN	_	Gender=Masc|Number=Sing	2	nmod	_	_
+6-7	nasadenpe	_	_	_	_	_	_	_	_
+6	nasaden	nasela	VERB	_	Mood=Ind|Person=2|Tense=Past|VerbForm=Fin	0	root	_	_
+7	pe	pe	PRON	_	Clitic=Yes|Person=3|PronType=Prs|Reflex=Yes	6	obj	_	_
+8-9	nur	_	_	_	_	_	_	_	_
+8	nar	nur	ADP	_	_	10	case	_	_
+9	u	u	DET	_	Definite=Def|Gender=Masc|Number=Sig|PronType=Art	10	det	_	_
+10	korape	korape	NOUN	_	Gender=Masc|Number=Sing	6	obl	_	SpaceAfter=No
+11	.	.	PUNCT	_	_	6	punct	_	_
+
+# sent_id = 0093@RMS-1033
+# text = mur čau kilela kon peskur mal.
+# translation = My daughter played with her friend.
+1	mur	mur	DET	_	Gender=Masc|Number=Sing|Poss=Yes	2	det	_	_
+2	čau	čau	NOUN	_	Gender=Masc|Number=Sing	3	nsubj	_	_
+3	kilela	kilela	VERB	_	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	kon	kon	ADP	_	_	6	case	_	_
+5	peskur	peskur	DET	_	Gender=Masc|Number=Sing|Poss=Yes	6	det	_	_
+6	mal	mal	NOUN	_	Gender=Masc|Number=Sing	3	obl	_	SpaceAfter=No
+7	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = 0094@RMS-1037
+# text = joj dikjas ja inčidente kon peskar stesi jaka.
+# translation = She saw an accident with her own eyes.
+1	joj	joi	PRON	_	Gender=Fem|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_
+2	dikjas	dikela	VERB	_	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+3	ja	ja	DET	_	Definite=Ind|PronType=Art	4	det	_	_
+4	inčidente	incidente	NOUN	_	Gender=Masc|Number=Sing	2	obj	_	_
+5	kon	kon	ADP	_	_	8	case	_	_
+6	peskar	peskur	DET	_	Gender=Masc|Number=Plur	8	det	_	_
+7	stesi	steso	DET	_	Gender=Masc|Number=Plur|PronType=Det	8	det	_	_
+8	jaka	jak	NOUN	_	Gender=Masc|Number=Plur	2	obl	_	SpaceAfter=No
+9	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = 0095@RMS-1043
+# text = a parte mar nona kedžano nar mengur gau ni lači ta pinen u futuro.
+# translation = Except for our grandmother nobody in our village knows how to tell the fortune.
+1	a	a	ADP	_	_	4	case	_	_
+2	parte	parte	NOUN	_	Gender=Fem|Number=Sing	1	fixed	_	_
+3	mar	mur	DET	_	Gender=Fem|Number=Sing|Poss=Yes	4	det	_	_
+4	nona	nono	NOUN	_	Gender=Fem|Number=Sing	11	obl	_	_
+5	kedžano	kedžano	PRON	_	PronType=Ind	11	nsubj	_	_
+6	nar	nar	ADP	_	_	8	case	_	_
+7	mengur	mengur	DET	_	Gender=Masc|Number=Sing|Poss=Yes	8	det	_	_
+8	gau	gau	NOUN	_	Gender=Masc|Number=Sing	11	obl	_	_
+9-10	ni	_	_	_	_	_	_	_	_
+9	n	na	ADV	_	_	11	advmod	_	_
+10	i	i	AUX	_	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	11	cop	_	_
+11	lači	lačo	ADJ	_	Gender=Fem|Number=Sing	0	root	_	_
+12	ta	ta	SCONJ	_	_	13	mark	_	_
+13	pinen	pinela	VERB	_	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	11	advcl	_	_
+14	u	u	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	15	det	_	_
+15	futuro	futuro	NOUN	_	Gender=Masc|Number=Sing	13	obj	_	SpaceAfter=No
+16	.	.	PUNCT	_	_	11	punct	_	_
+
+# sent_id = 0096@RMS-1052
+# text = u džukal islu ja verangli trujal i men i kjake na si miga kilel kun u kokaja.
+# translation = The dog had a chain around his neck and so he could not play with the bones.
+1	u	u	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	džukal	džukal	NOUN	_	Gender=Masc|Number=Sing	3	nsubj	_	_
+3-4	islu	_	_	_	_	_	_	_	_
+3	is	i	VERB	_	Mood=Ind|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
+4	lu	lo	PRON	_	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	fixed	_	_
+5	ja	ja	DET	_	Definite=Ind|PronType=Art	6	det	_	_
+6	verangli	verangli	NOUN	_	Gender=Fem|Number=Sing	3	obj	_	_
+7	trujal	trujal	ADP	_	_	9	case	_	_
+8	i	i	DET	_	Definite=Def|Gender=Fem|PronType=Art	9	det	_	_
+9	men	men	NOUN	_	Gender=Fem|Number=Sing	6	obl	_	_
+10	i	e	CCONJ	_	_	15	cc	_	_
+11	kjake	kjake	ADV	_	_	15	advcl	_	_
+12	na	na	ADV	_	_	15	advmod	_	_
+13	si	i	AUX	_	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	15	aux	_	_
+14	miga	miga	ADV	_	_	15	advmod	_	_
+15	kilel	kilel	VERB	_	Mood=Subj|Person=3|Tense=Pres|VerbForm=Fin	3	advcl	_	_
+16	kun	kun	ADP	_	_	18	mark	_	_
+17	u	u	DET	_	Definite=Def|Gender=Masc|Number=Sing	18	det	_	_
+18	kokaja	kokajo	NOUN	_	Gender=Masc|Number=Plur	15	obl	_	SpaceAfter=No
+19	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = 0097@RMS-1055
+# text = joj kardas a tokar u maro.
+# translation = She broke the bread into pieces.
+1	joj	jo	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_
+2	kardas	karela	VERB	_	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+3	a	ja	DET	_	Definite=Ind|PronType=Art	4	det	_	_
+4	tokar	tokar	NOUN	_	Gender=Masc|Number=Sing	6	nmod	_	_
+5	u	u	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
+6	maro	mar	NOUN	_	Gender=Masc|Number=Sing	2	obj	_	SpaceAfter=No
+7	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = 0098@RMS-1056
+# text = a parte ta čela bisto nar vjerta jo na karela but.
+# translation = Apart from sitting in the pub, he doesn't do much.
+1	a	a	ADP	_	_	4	mark	_	_
+2	parte	parte	NOUN	_	Gender=Fem|Number=Sing	1	fixed	_	_
+3	ta	ta	SCONJ	_	_	4	mark	_	_
+4	čela	čela	VERB	_	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	10	advcl	_	_
+5	bisto	bisto	ADJ	_	Gender=Masc|Number=Sing	4	xcomp	_	_
+6	nar	nar	ADP	_	_	7	case	_	_
+7	vjerta	vjerta	NOUN	_	Gender=Fem|Number=Sing	4	obl	_	_
+8	jo	jo	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	10	nsubj	_	_
+9	na	na	ADV	_	_	10	advmod	_	_
+10	karela	karela	VERB	_	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+11	but	but	PRON	_	PronType=Ind	10	obj	_	SpaceAfter=No
+12	.	.	PUNCT	_	_	10	punct	_	_
+
+# sent_id = 0099@RMS-1059
+# text = jo i ja baro raj ar peskur pral.
+# translation = He is as rich as his brother.
+1	jo	jo	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	_
+2	i	i	AUX	_	Mood=Fin|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
+3	ja	ja	DET	_	Definite=Ind|PronType=Art	5	det	_	_
+4	baro	baro	ADJ	_	Gender=Masc|Number=Sing	5	amod	_	_
+5	raj	raj	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_
+6	ar	ar	ADP	_	_	8	case	_	_
+7	peskur	peskur	DET	_	Gender=Masc|Number=Sing|Poss=Yes	8	det	_	_
+8	pral	pral	NOUN	_	Gender=Masc|Number=Sing	5	advcl	_	SpaceAfter=No
+9	.	.	PUNCT	_	_	5	punct	_	_
+
+# sent_id = 0100@RMS-1060
+# text = joj ruvelas di xoli.
+# translation = She cried of anger.
+1	joj	jo	PRON	_	Gender=Fem|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_
+2	ruvelas	ruvela	VERB	_	Mood=Ind|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
+3	di	di	ADP	_	_	4	mark	_	_
+4	xoli	xoli	NOUN	_	Gender=Fem|Number=Sing	2	obl	_	SpaceAfter=No
+5	.	.	PUNCT	_	_	2	punct	_	_
+
