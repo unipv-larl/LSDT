@@ -789,16 +789,18 @@
 # sent_id = 0057@RMS-710
 # text = ima čumoni ta kara kaj prima ta dža kere.
 # translation = I have a few things to do here before I can go back home.
-1	ima	ima	VERB	_	Mood=Ind|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
-2	čumoni	čumoni	PRON	_	PronType=Ind	1	obj	_	_
-3	ta	ta	SCONJ	_	_	4	mark	_	_
-4	kara	karela	VERB	_	Mood=Subj|Person=1|Tense=Pres|VerbForm=Fin	2	acl	_	_
-5	kaj	kaj	ADV	_	_	4	advmod	_	_
-6	prima	prima	ADV	_	_	8	mark	_	_
-7	ta	ta	SCONJ	_	_	6	fixed	_	_
-8	dža	džala	VERB	_	Mood=Subj|Person=3|Tense=Pres|VerbForm=Fin	1	advcl	_	_
-9	kere	kere	ADV	_	_	8	iobj	_	SpaceAfter=No
-10	.	.	PUNCT	_	_	1	punct	_	_
+1-2	ima	_	_	_	_	_	_	_	_
+1	i	i	VERB	_	Mood=Ind|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	ma	ma	PRON	_	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	1	fixed	_	_
+3	čumoni	čumoni	PRON	_	PronType=Ind	1	obj	_	_
+4	ta	ta	SCONJ	_	_	5	mark	_	_
+5	kara	karela	VERB	_	Mood=Subj|Person=1|Tense=Pres|VerbForm=Fin	3	acl	_	_
+6	kaj	kaj	ADV	_	_	5	advmod	_	_
+7	prima	prima	ADV	_	_	9	mark	_	_
+8	ta	ta	SCONJ	_	_	7	fixed	_	_
+9	dža	džala	VERB	_	Mood=Subj|Person=3|Tense=Pres|VerbForm=Fin	1	advcl	_	_
+10	kere	kere	ADV	_	_	9	iobj	_	SpaceAfter=No
+11	.	.	PUNCT	_	_	1	punct	_	_
 
 # sent_id = 0058@RMS-716
 # text = džina ke ila zorli ta vjadžares par ta ses ja labatarpe but stundi onji divas.
