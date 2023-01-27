@@ -23,6 +23,8 @@ git clone https://github.com/unipv-larl/LSDT.git
 
 ## Cite the paper
 
+> Marco Forlano and Luca Brigada Villa. 2023. LSDT: a Dependency Treebank of Lombard Sinti. In *Proceedings of the Sixth Workshop on the Use of Computational Methods in the Study of Endangered Languages*. Association for Computational Linguistics: xx-yy. Honolulu, HI.
+
 ```sh
 @inproceedings{forlano-brigadavilla2023,
     title = "LSDT: a {D}ependency {T}reebank of {L}ombard {S}inti",
