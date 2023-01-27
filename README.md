@@ -9,7 +9,7 @@
 
 ## Download
 
-Click [here]() to download the data or clone this repository running the following command in your terminal:
+Click [here](https://github.com/unipv-larl/LSDT/archive/master.zip) to download the data or clone this repository running the following command in your terminal:
 
 ```sh
 git clone https://github.com/unipv-larl/LSDT.git
@@ -23,6 +23,23 @@ git clone https://github.com/unipv-larl/LSDT.git
 
 ## Cite the paper
 
+```sh
+@inproceedings{forlano-brigadavilla2023,
+    title = "LSDT: a {D}ependency {T}reebank of {L}ombard {S}inti",
+    author = "Forlano, Marco  and
+      Brigada Villa, Luca",
+    booktitle = "Proceedings of the Sixth Workshop on the Use of Computational Methods in the Study of Endangered Languages",
+    month = march,
+    year = "2023",
+    address = "Honolulu, HI",
+    publisher = "Association for Computational Linguistics",
+    url = "",
+    doi = "",
+    pages = "",
+    abstract = "",
+}
+```
+
 ## License
 
-The data are distributed under a [CC-BY-SA license](https://creativecommons.org/licenses/by-sa/4.0/).
+The data are distributed under a [CC-BY-SA 4.0 license](https://creativecommons.org/licenses/by-sa/4.0/).
